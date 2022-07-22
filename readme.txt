@@ -4,7 +4,7 @@
 */
 
 
-****************************************************** Version francaise *************************************************************************
+****************************************************** Version Anglaise ***********************************************************************
 
 
 Abstract: This project consists in implementing from scratch the PCA technique. This method consists in reducing the dimensions of a set of data of very large size 
@@ -15,7 +15,7 @@ NB: To run the program, in your terminal, go to the directory with the .py files
 
 
 
-****************************************************** Version francaise **************************************************************************
+****************************************************** Version francaise **********************************************************************
 
 
 Resume : Ce projet consiste a implementer from scratch la technique ACP. Methode qui consiste a reduire les dimensions d'un jeu de donnees de taille tres grandes
